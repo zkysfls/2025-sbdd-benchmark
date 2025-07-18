@@ -1,4 +1,4 @@
-# Structure-based Drug Design Benchmark: Do 3D Methods Really Dominate?
+# Beyond Affinity: A Benchmark of 1D, 2D, and 3D Methods Reveals Critical Trade-offs in Structure-Based Drug Design
 
 This repository hosts an open-source benchmark for Structure-based Drug Design, to facilitate the transparent and reproducible evaluation of algorithmic advances in molecular optimization. This repository supports 15 Structure-based Drug Design algorithms on 4 tasks categories.
 
