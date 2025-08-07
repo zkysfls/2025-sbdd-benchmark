@@ -9,7 +9,7 @@ This repository hosts an open-source benchmark for Structure-based Drug Design, 
 |                  `Model`                                                                                        | `Dimension` | `Tested molcules (Avg) `   | `requires_gpu` |
 |-----------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------|---------|
 | **[3DSBDD](https://arxiv.org/abs/2203.10446)**                              | 3D      |  771          |    yes     |
-| **[Pocket2mol](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00839)**                                       | 3D     | 928          |    yes     |
+| **[Pocket2mol](https://arxiv.org/abs/2205.07249)**                                       | 3D     | 928          |    yes     |
 | **[PocketFlow](https://arxiv.org/abs/2205.07249)**               | 3D    | 1000          |    yes    |
 | **[RenGen](https://www.nature.com/articles/s42256-023-00712-7)**                                             | 3D    |  631          |    yes     |
 | **[DST](https://arxiv.org/abs/2109.10469)**                      | 2D       |  1001          |    no     |
